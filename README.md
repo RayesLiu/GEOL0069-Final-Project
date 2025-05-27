@@ -131,7 +131,12 @@ This reinforces the idea that even when working on modest AI projects, we should
 - Histograms and cloud masks
 - README for setup and context
 ---
+## 🎬 Video Demo
 
+[![Watch the video](https://img.youtube.com/vi/yw6dxHKKyDw/hqdefault.jpg)](https://youtu.be/yw6dxHKKyDw)
+
+> This short video explains the full workflow, including Sentinel-2 preprocessing, index calculation, K-means clustering, and result interpretation.
+---
 ## 👤 Author
 
 **Rayes Liu**  
